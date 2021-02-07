@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "715048379114",
+    "firebase_url": "https://refined-algebra-287615.firebaseio.com",
+    "project_id": "refined-algebra-287615",
+    "storage_bucket": "refined-algebra-287615.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715048379114:android:58e4f0d1767db765c86d93",
+        "android_client_info": {
+          "package_name": "com.example.demofirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715048379114-ctv2qbnbmm2pt4762pvckvonfckeluh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBliFr_myqYYbGUpJxTPfHBli1b2cjp16M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715048379114-ctv2qbnbmm2pt4762pvckvonfckeluh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715048379114:android:a31d80abd2a12f4fc86d93",
+        "android_client_info": {
+          "package_name": "com.example.mobileproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715048379114-ctv2qbnbmm2pt4762pvckvonfckeluh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBliFr_myqYYbGUpJxTPfHBli1b2cjp16M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715048379114-ctv2qbnbmm2pt4762pvckvonfckeluh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

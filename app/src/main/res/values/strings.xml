@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">J0Y</string>
+    <string name="details">...</string>
+
+    <string-array name="locationType">
+        <item>coffee</item>
+        <item>restaurant</item>
+        <item>cinema</item>
+        <item>themepark</item>
+        <item>park</item>
+        <item>zoo</item>
+        <item>museum</item>
+        <item>mall</item>
+        <item>sport</item>
+    </string-array>
+
+    <string name="title_activity_maps">Map</string>
+
+</resources>
